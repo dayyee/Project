@@ -1,0 +1,16 @@
+.order-complete-header {
+    /* text-align: center; */
+    display: flex;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    justify-content: center;
+
+}
+
+.order-complete {
+    display: flex;
+    flex-direction: column;
+    margin: 3rem 0 rem;
+
+
+}

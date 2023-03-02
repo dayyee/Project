@@ -1,0 +1,35 @@
+.category-item {
+    display: flex;
+}
+
+.category-item .image {
+    margin: 0.5rem 1rem 0.5rem 0.5rem;
+    width: 200px;
+
+}
+
+.category-item .image img {
+    height: 200px;
+    width: 200px;
+}
+
+
+.category-item p.title {
+    margin: 1rem 0;
+}
+
+.category-item p.title .tag {
+    display: inline-block;
+    margin-left: 0.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.5rem;
+}
+
+.category-item p.description {
+    font-size: 12px;
+}
+
+.media+.media {
+    margin-top: 0.5rem;
+    padding-top: 0;
+}

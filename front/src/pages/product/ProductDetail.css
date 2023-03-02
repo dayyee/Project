@@ -1,0 +1,30 @@
+.product-detail-img {
+    width: 50%
+}
+
+
+.product-detail-description {
+    padding-left: 3rem;
+    width: 50%
+}
+
+
+.product-detail-name {
+    font-size: 14px;
+    margin-bottom: 1rem;
+
+}
+
+
+.product-detail-info {
+
+    margin-bottom: 1rem;
+
+}
+
+
+.product-detail-price {
+    font-size: 12px;
+    margin-bottom: 1rem;
+
+}

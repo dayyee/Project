@@ -1,0 +1,52 @@
+.delivery-tile {
+    display: flex;
+    flex: 1;
+    margin: 1rem 1rem;
+}
+
+.delivery-info {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* font-family: 'Merriweather'; */
+
+}
+
+.delivery-fee {
+    border-bottom: #555 solid 1px;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+
+}
+
+.order-summary {
+    justify-content: flex-start;
+    width: 100%;
+    padding: 1rem 0;
+}
+
+.order-header {
+    border-bottom: #555 solid 1px;
+    margin-bottom: 1rem;
+    font-size: 18px;
+}
+
+.order-info {
+    border-bottom: #555 solid 1px;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+}
+
+.order-total {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 3rem 0;
+    font-size: 18px;
+}
+
+/* 
+.product-info {
+    font-size: 1.2rem;
+
+} */

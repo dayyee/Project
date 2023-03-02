@@ -1,0 +1,37 @@
+/* .card-container {
+    display: flex;
+    max-width: 90%;
+    flex-direction: row;
+} */
+
+
+.accountCard {
+    text-decoration: none;
+    color: black;
+}
+
+.account_button {
+    background-color: #fff;
+    border: 1px solid black;
+    height: 65px;
+    width: 40%;
+    justify-content: center;
+}
+
+.main-name {
+    font-size: 14px;
+    margin: 0;
+}
+
+.sub-name {
+    font-size: 12px;
+    margin: 0;
+    color: #999;
+}
+
+.account_button_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.2rem;
+}

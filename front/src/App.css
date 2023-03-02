@@ -1,0 +1,177 @@
+.section {
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 3rem;
+  padding: 1rem;
+  max-width: 90%;
+  color: black;
+  white-space: pre-line;
+}
+
+.container {
+  margin-bottom: 2rem;
+  font-family: 'Merriweather', 'Noto Serif KR', serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+  font-family: 'Merriweather', 'Noto Serif KR', serif;
+}
+
+
+body,
+input,
+button {
+  font-family: 'Merriweather', 'Noto Serif KR', serif;
+  color: black;
+  font-size: 12px;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #000;
+}
+
+.table {
+  font-size: 12px;
+}
+
+
+a,
+ul {
+  text-decoration: none;
+  margin: 0;
+  color: black;
+}
+
+a:hover {
+  color: #999
+}
+
+
+.Navbar {
+  display: flex;
+}
+
+.Header {
+  border-bottom: 1px solid;
+  border-top: 1px solid;
+  padding: 1.5rem 0;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.tile {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 70%
+}
+
+input {
+  width: 100%;
+}
+
+.input {
+  border: 1px solid black;
+  line-height: 3.5;
+  border-radius: 0;
+  height: 55px;
+  margin-bottom: 1rem;
+}
+
+
+.input:focus {
+  border: 2px solid black;
+
+}
+
+
+.user-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 400px;
+  margin: 0;
+  padding: 0;
+}
+
+.user-button {
+  width: 400px;
+  background-color: #fff;
+  border: 1px solid black;
+  line-height: 3.5;
+  padding: 0;
+  flex-direction: flex-end;
+  margin: auto;
+}
+
+.edit-button {
+  background-color: #fff;
+  border: 1px solid black;
+  display: inline;
+  margin-right: "1rem";
+  text-align: center;
+}
+
+.manage-button {
+  background-color: #fff;
+  border: 1px solid rgb(118, 118, 118);
+  border-radius: 4px;
+  display: inline;
+  margin-right: "1rem";
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:hover {
+  border: 1px solid #999;
+  color: #999
+}
+
+
+button:focus {
+  border: 1px solid #999;
+  color: #999
+}
+
+li:hover {
+  color: #999
+}
+
+.postcode {
+  display: flex;
+  width: 100%;
+}
+
+.postcode-input {
+  flex: 3;
+  border: 1px solid black;
+  border-right: 0px;
+  line-height: 3.5;
+  border-radius: 0;
+  height: 55px;
+  margin-bottom: 1rem;
+}
+
+
+.postcode-button {
+  flex: 1;
+  border: 1px solid black;
+  line-height: 3.5;
+  border-radius: 0;
+  height: 55px;
+  margin-bottom: 1rem;
+  text-align: center;
+}

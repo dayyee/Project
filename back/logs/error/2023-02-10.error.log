@@ -1,0 +1,127 @@
+2023-02-10 00:24:54 [moteam_web_service] error: TypeError: Cannot read properties of null (reading '_id')
+    at ProductService.getProductsByCategoryTitle (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\productService.js:37:75)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:24
+2023-02-10 00:25:14 [moteam_web_service] error: TypeError: Cannot read properties of null (reading '_id')
+    at ProductService.getProductsByCategoryTitle (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\productService.js:37:75)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:24
+2023-02-10 00:25:51 [moteam_web_service] error: TypeError: Cannot read properties of null (reading '_id')
+    at ProductService.getProductsByCategoryTitle (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\productService.js:37:75)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:24
+2023-02-10 00:26:06 [moteam_web_service] error: TypeError: Cannot read properties of null (reading '_id')
+    at ProductService.getProductsByCategoryTitle (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\productService.js:37:75)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:24
+2023-02-10 00:26:11 [moteam_web_service] error: TypeError: Cannot read properties of null (reading '_id')
+    at ProductService.getProductsByCategoryTitle (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\productService.js:37:75)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:24
+2023-02-10 00:26:12 [moteam_web_service] error: TypeError: Cannot read properties of null (reading '_id')
+    at ProductService.getProductsByCategoryTitle (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\productService.js:37:75)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:24
+2023-02-10 00:26:46 [moteam_web_service] error: TypeError: productService.getProductsByCategoryTitle is not a function
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:45
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:280:10)
+2023-02-10 00:27:18 [moteam_web_service] error: TypeError: productService.getProductsByCategoryTitle is not a function
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:45
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:280:10)
+2023-02-10 00:29:12 [moteam_web_service] error: TypeError: productService.getProductsByCategoryTitle is not a function
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:45
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:280:10)
+2023-02-10 00:38:08 [moteam_web_service] error: SyntaxError: Unexpected token } in JSON at position 92
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:203:9)
+    at invokeCallback (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:513:28)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-02-10 00:38:36 [moteam_web_service] error: JsonWebTokenError: invalid token
+    at module.exports [as verify] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\jsonwebtoken\verify.js:82:17)
+    at adminOnly (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\middlewares\adminOnly.js:22:28)
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:421:3)
+2023-02-10 00:47:12 [moteam_web_service] error: Error: 등록되지 않은 이메일입니다.
+    at UserService.findEmail (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\userService.js:71:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\userRouter.js:59:26
+2023-02-10 00:47:32 [moteam_web_service] error: Error: 등록되지 않은 이메일입니다.
+    at UserService.findEmail (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\userService.js:71:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\userRouter.js:59:26
+2023-02-10 00:54:10 [moteam_web_service] error: TypeError: productService.getProductsByCategoryTitle is not a function
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:45
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:280:10)
+2023-02-10 00:54:24 [moteam_web_service] error: TypeError: productService.getProductsByCategoryTitle is not a function
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\productRouter.js:56:45
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\express\lib\router\index.js:280:10)
+2023-02-10 00:55:32 [moteam_web_service] error: TypeError: Cannot read properties of null (reading 'status')
+    at OrderModel.update (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\db\models\orderModel.js:40:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async OrderService.setOrder (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\orderService.js:38:26)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\orderRouter.js:54:28
+2023-02-10 01:01:33 [moteam_web_service] error: Error: 현재 비밀번호가 일치하지 않습니다. 다시 한 번 확인해 주세요.
+    at UserService.setUser (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\userService.js:168:13)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\userRouter.js:178:31
+2023-02-10 01:11:33 [moteam_web_service] error: Error: 상품 배송 중이므로 정보를 변경할 수 없습니다.
+    at OrderModel.update (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\db\models\orderModel.js:41:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async OrderService.setOrder (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\orderService.js:38:26)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\orderRouter.js:54:28
+2023-02-10 01:11:51 [moteam_web_service] error: Error: 상품 배송 중이므로 주문을 취소할 수 없습니다.
+    at OrderModel.deleteById (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\db\models\orderModel.js:63:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async OrderService.deleteOrderData (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\orderService.js:64:30)
+    at async C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\routes\orderRouter.js:70:28

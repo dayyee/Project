@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\82108\\OneDrive\\바탕 화면\\project10\\moteam\\back\\logs\\.d25f8c7db2b816da3215893a9f4243d90b394b92-audit.json",
+    "files": [
+        {
+            "date": 1675926163611,
+            "name": "C:\\Users\\82108\\OneDrive\\바탕 화면\\project10\\moteam\\back\\logs\\2023-02-09.exception.log",
+            "hash": "97ab87fde0d58f80aadd4d2bc7eee8a6c13e7ed8e3759982e0cf3244401cdafe"
+        },
+        {
+            "date": 1675956194876,
+            "name": "C:\\Users\\82108\\OneDrive\\바탕 화면\\project10\\moteam\\back\\logs\\2023-02-10.exception.log",
+            "hash": "e39171aabf0c45d6237eff88a6c3c1dbc0a633e40ccecb1dc5d9c5630381d9b3"
+        }
+    ],
+    "hashType": "sha256"
+}

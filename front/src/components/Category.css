@@ -1,0 +1,25 @@
+.category-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.category-card {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    margin: 3rem;
+}
+
+.category-image-container {
+    display: flex;
+    overflow: hidden;
+    height: 600px;
+}
+
+.category-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+}

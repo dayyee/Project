@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/anna/Desktop/0207/moteam/back/logs/error/.fc2b921eafd86f93a898c4ad8b9f693ef421e27e-audit.json",
+    "files": [
+        {
+            "date": 1675933032342,
+            "name": "/Users/anna/Desktop/0207/moteam/back/logs/error/2023-02-09.error.log",
+            "hash": "251fdde2c57da15ccc8fbc9940598aa9916c9c68ceaf859d91a4c7a36aaa0460"
+        }
+    ],
+    "hashType": "sha256"
+}

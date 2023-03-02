@@ -1,0 +1,123 @@
+2023-02-09 16:46:37 [moteam_web_service] error: uncaughtException: Cannot read properties of undefined (reading 'PORT')
+TypeError: Cannot read properties of undefined (reading 'PORT')
+    at Object.<anonymous> (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\index.js:4:34)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+2023-02-09 16:47:02 [moteam_web_service] error: uncaughtException: Cannot read properties of undefined (reading 'PORT')
+TypeError: Cannot read properties of undefined (reading 'PORT')
+    at Object.<anonymous> (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\index.js:4:38)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+2023-02-09 16:47:12 [moteam_web_service] error: uncaughtException: Cannot read properties of undefined (reading 'PORT')
+TypeError: Cannot read properties of undefined (reading 'PORT')
+    at Object.<anonymous> (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\index.js:4:38)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+2023-02-09 16:47:26 [moteam_web_service] error: uncaughtException: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\index.js:409:10
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+2023-02-09 17:08:17 [moteam_web_service] error: uncaughtException: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\index.js:409:10
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+2023-02-09 17:09:10 [moteam_web_service] error: uncaughtException: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\index.js:409:10
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+2023-02-09 17:10:07 [moteam_web_service] error: uncaughtException: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\index.js:409:10
+    at C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+2023-02-09 22:25:24 [moteam_web_service] error: uncaughtException: Unexpected token '?.'
+C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\db\models\productModel.js:14
+    const product = await Product.findOne({ _id: ?.productId });
+                                                 ^^
+
+SyntaxError: Unexpected token '?.'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\categoryService.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-02-09 22:25:28 [moteam_web_service] error: uncaughtException: Unexpected token '.'
+C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\db\models\productModel.js:14
+    const product = await Product.findOne({ _id: .?productId });
+                                                 ^
+
+SyntaxError: Unexpected token '.'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\categoryService.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+2023-02-09 22:25:42 [moteam_web_service] error: uncaughtException: Unexpected token '?'
+C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\db\models\productModel.js:14
+    const product = await Product.findOne({ _id: Product.?productId });
+                                                         ^
+
+SyntaxError: Unexpected token '?'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1088:15)
+    at Module._compile (node:internal/modules/cjs/loader:1123:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\82108\OneDrive\바탕 화면\project10\moteam\back\src\services\categoryService.js:1:26)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
